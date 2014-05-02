@@ -1,0 +1,6 @@
+[submodule "CustomElements"]
+	path = CustomElements
+	url = https://github.com/Polymer/CustomElements.git
+[submodule "ShadowDOM"]
+	path = ShadowDOM
+	url = https://github.com/Polymer/ShadowDOM.git
